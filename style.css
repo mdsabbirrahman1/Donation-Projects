@@ -28,10 +28,12 @@ body {
 
 .some-text {
     font-size: 50px;
+    line-height: 50px;
+    margin-top: 180px;
 }
 
 .help-created {
-    line-height: 15px;
+    line-height: 25px;
 
 }
 
@@ -56,10 +58,6 @@ body {
 
     text-align: center;
 
-
-
-
-
 }
 
 .donate {
@@ -69,9 +67,13 @@ body {
 
 }
 
+.orange {
+    color: #ff5959;
+}
+
 .para {
     font-size: 20px;
-    font-weight: 300;
+    color: #4d5258bb;
 }
 
 .tk {
@@ -89,7 +91,7 @@ body {
 
 #tk-500 {
     background-color: #ffeeee;
-    border: 1px solid #ff5959;
+    border: 2px solid #ff5959;
     border-radius: 4px;
     color: #ff5959;
     margin-top: 20px;
@@ -98,8 +100,15 @@ body {
 
 .other {
     margin: auto;
-    width: 400px;
+    margin-top: 80px;
+    width: 600px;
     text-align: center;
+}
+
+#link-btn-2 {
+    position: relative;
+    top: 20px;
+
 }
 
 .taka {
@@ -169,7 +178,7 @@ body {
     margin-top: 10px;
     color: white;
     letter-spacing: 1px;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .down-icon {
@@ -190,6 +199,15 @@ body {
 
 .my-update {
     font-size: 50px;
+}
+
+.updates {
+    color: #ff5959;
+}
+
+#now-create {
+    font-size: 25px;
+    color: #4d5258bb;
 }
 
 .from {
@@ -219,14 +237,13 @@ input[type=email] {
 .sub {
     text-decoration: none;
     font-size: 16px;
-    padding: 0px 16px;
+    padding: 1px 16px;
     background-color: #ff5959;
     color: white;
-    margin-bottom: -2px;
+    position: relative;
+    top: -3px;
 
 }
-
-.email-1 {}
 
 .be-humble {
     width: 100%;
@@ -241,5 +258,5 @@ input[type=email] {
 .be {
     color: #ff5959;
 
-    margin-top: 20px;
+    margin-top: 0px;
 }
