@@ -1,0 +1,187 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Gulzar', serif;
+}
+
+.donate-img {
+    width: 100%;
+    height: 700px;
+
+
+}
+
+.top-bar {
+    width: 700px;
+
+    text-align: center;
+    position: relative;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+.sent-many {
+    display: flex;
+}
+
+.donate {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+
+}
+
+.para {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.tk {
+    width: 150px;
+    height: 150px;
+    background-color: #fafafa;
+    color: #707070;
+    margin: auto;
+    font-size: 25px;
+    align-content: center;
+
+}
+
+#tk-500 {
+    background-color: #ffeeee;
+    border: 1px solid #ff5959;
+    border-radius: 4px;
+    color: #ff5959;
+}
+
+.other {
+    margin: auto;
+    width: 400px;
+    text-align: center;
+}
+
+.taka {
+    color: #707070;
+    font-weight: 400;
+    border-bottom: 1px solid #707070;
+
+}
+
+.link-btn {
+    background-color: orange;
+    text-decoration: none;
+    padding: 5px 25px;
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+}
+
+.my-blog {
+    display: flex;
+
+}
+
+.frist-blog {
+    width: 360px;
+    padding: 10px 20px;
+    height: 320px;
+    border-radius: 5px;
+    background-color: #edf5f6;
+    margin: auto;
+}
+
+.icon {
+    margin-top: 15px;
+    background-color: white;
+    padding: 7px 7px;
+    border-radius: 50px;
+}
+
+#education {
+    background-color: #192b6c;
+    color: white;
+}
+
+#shelter {
+    background-color: #ffeeee;
+    background-color: #1d4e56;
+    color: white;
+}
+
+.right-step {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+
+    background-color: #0e0f10;
+}
+
+.you {
+    color: #694929;
+    letter-spacing: 1px;
+}
+
+.Purchase {
+    margin-top: 10px;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 50px;
+}
+
+.down-icon {
+    border-radius: 80px;
+    border: 1px solid #192b6c;
+
+    height: 60px;
+    width: 70px;
+    margin: 15px 5px;
+}
+
+.get {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+
+}
+
+.my-update {
+    font-size: 50px;
+}
+
+.from {
+    width: 900px;
+    height: 200px;
+    background-color: #fff4d6;
+    margin: auto;
+}
+
+input[type=text],
+select {
+    width: 200px;
+    height: 100px;
+
+}
+
+.be-humble {
+    width: 100%;
+    height: 200px;
+    background-color: #0b0d17;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.be {
+    color: #ff5959;
+
+    margin-top: 20px;
+}
